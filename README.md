@@ -16,7 +16,7 @@ junior at [TAMS](https://tams.unt.edu) (University of North Texas). i build thin
 | | |
 |---|---|
 | [**safe-payouts**](https://github.com/dhilandonkey-png/safe-payouts) | payouts service in Java: double-entry ledger, idempotency keys, and concurrency tests that catch double payouts |
-| [**Personal-Website**](https://github.com/dhilandonkey-png/Personal-Website) | my portfolio, themed like a patient monitor. every ECG trace is generated in code |
+| [**Personal-Website**](https://github.com/dhilandonkey-png/Personal-Website) | my portfolio |
 | [**Stemseeds-website**](https://github.com/dhilandonkey-png/Stemseeds-website) | the site for my nonprofit, with typed content files and a kit request form |
 
 #### currently
