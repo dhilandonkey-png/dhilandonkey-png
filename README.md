@@ -24,4 +24,4 @@ junior at [TAMS](https://tams.unt.edu) (University of North Texas). i build thin
 - adding fraud rules to safe-payouts that hold risky payouts for review
 - reproducing dfPO (NeurIPS 2025) and benchmarking it against 12 RL baselines
 
-[dhilanavula.dev](https://dhilanavula.dev) · [linkedin](https://www.linkedin.com/in/dhilan-avula-bb9609404/) · [email](mailto:dhilanavula@my.unt.edu)
+[dhilanavula.dev](https://dhilanavula.dev) · [linkedin](https://www.linkedin.com/in/dhilan-avula-bb9609404/) · email: dhilanavula@my.unt.edu
