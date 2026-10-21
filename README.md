@@ -15,13 +15,16 @@ junior at [TAMS](https://tams.unt.edu) (University of North Texas). i build thin
 
 | | |
 |---|---|
-| [**safe-payouts**](https://github.com/dhilandonkey-png/safe-payouts) | payouts service in Java: double-entry ledger, idempotency keys, and concurrency tests that catch double payouts |
+| [**safe-payouts**](https://github.com/dhilandonkey-png/safe-payouts) | payouts service in Java: double-entry ledger, idempotency keys, fraud rules that hold risky payouts for review, and concurrency tests that catch double payouts |
 | [**Personal-Website**](https://github.com/dhilandonkey-png/Personal-Website) | my portfolio |
 | [**Stemseeds-website**](https://github.com/dhilandonkey-png/Stemseeds-website) | the site for my nonprofit, with typed content files and a kit request form |
 
+also built: [MyHeartJourney](https://dhilanavula.dev/#builds) (iOS app for heart transplant patients, with my brother) · [a robotic arm for Parkinson's tremors](https://dhilanavula.dev/#robotic-arm) (TXSEF finalist) · [a Kalshi prediction market case study](https://dhilanavula.dev/#builds)
+
 #### currently
 
-- adding fraud rules to safe-payouts that hold risky payouts for review
+- building a prediction market bot that paper-trades on Kalshi's public data
+- adding an HTTP API to safe-payouts
 - reproducing dfPO (NeurIPS 2025) and benchmarking it against 12 RL baselines
 
 [dhilanavula.dev](https://dhilanavula.dev) · [linkedin](https://www.linkedin.com/in/dhilan-avula-bb9609404/) · email: dhilanavula@my.unt.edu
