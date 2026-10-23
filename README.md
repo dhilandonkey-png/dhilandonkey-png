@@ -16,6 +16,7 @@ junior at [TAMS](https://tams.unt.edu) (University of North Texas). i build thin
 | | |
 |---|---|
 | [**safe-payouts**](https://github.com/dhilandonkey-png/safe-payouts) | payouts service in Java: double-entry ledger, idempotency keys, fraud rules that hold risky payouts for review, and concurrency tests that catch double payouts |
+| [**kalshi-weather-bot**](https://github.com/dhilandonkey-png/kalshi-weather-bot) | paper-trades Kalshi temperature markets in Java: NWS forecasts, Kelly sizing, and Brier scores against the market |
 | [**Personal-Website**](https://github.com/dhilandonkey-png/Personal-Website) | my portfolio |
 | [**Stemseeds-website**](https://github.com/dhilandonkey-png/Stemseeds-website) | the site for my nonprofit, with typed content files and a kit request form |
 
@@ -23,7 +24,7 @@ also built: [MyHeartJourney](https://dhilanavula.dev/#builds) (iOS app for heart
 
 #### currently
 
-- building a prediction market bot that paper-trades on Kalshi's public data
+- running kalshi-weather-bot daily and fitting its forecast error from the results
 - adding an HTTP API to safe-payouts
 - reproducing dfPO (NeurIPS 2025) and benchmarking it against 12 RL baselines
 
